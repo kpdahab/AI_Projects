@@ -1,0 +1,10 @@
+## pip install -r requirements.txt
+langchain
+langchain-community
+langchain-groq
+langchain_core
+langchain-chroma
+langchain_huggingface
+python-dotenv # To import variables from .env file
+typing-extensions
+ipykernel
