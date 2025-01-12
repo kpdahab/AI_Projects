@@ -66,42 +66,34 @@ This project demonstrates the development of an intelligent chatbot that integra
     cd <AI_Projects/Chatbots/Langchain_Groq_Chatbot>
 
 2.	Install Dependencies
-    Ensure Python 3.8+ is installed, then run:
-
-    pip install -r requirements.txt
+   Ensure Python 3.12 is installed (conda create -p venv python==3.12), then run:
+   pip install -r requirements.txt
 
 
 3.	Set Up API Keys
-    Add your API keys for the following services in a .env file:
-
-    GROQ_API_KEY=<your_groq_api_key>
-    HUGGINGFACE_API_KEY=<your_huggingface_api_key>
+   Add your API keys for the following services in a .env file:
+   GROQ_API_KEY=<your_groq_api_key>
+   HUGGINGFACE_API_KEY=<your_huggingface_api_key>
 
 
 4.	Run the Application
-    Launch the Jupyter Notebook interface:
-
-    Navigate to the Langchain_Groq_Chat folder.
+   Launch the Jupyter Notebook interface:
+   Navigate to the Langchain_Groq_Chat folder.
 	Open the .ipynb files and run the cells sequentially.
 
 
 5.	Test the Chatbot
-    Interact with the chatbot within the notebooks.
+   Interact with the chatbot within the notebooks.
 	Follow any additional instructions provided in the notebook cells to view and test the outputs.
 
-Disclaimer
+### Disclaimer
 
 This project is intended solely for demonstration purposes to showcase the use of Generative AI technologies. It is not meant for production use, and no contributions are accepted. If you have any questions or would like to discuss this project further, please reach out using the contact details below.
 
-License
+### License
 
 This repository is for viewing purposes only and is not licensed for reuse or modification. All rights are reserved.
 
-Contact
-
-For questions or opportunities, feel free to reach out:
-Email: [dahabkp@outlook.com]
-LinkedIn: [https://www.linkedin.com/in/dahab-p-648968159]
 
 
 
