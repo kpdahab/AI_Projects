@@ -1,0 +1,14 @@
+langchain
+langchain_community
+langchain_openai
+langchain_text_splitters
+arxiv
+wikipedia
+python-dotenv # To import variables from .env file
+typing-extensions
+ipykernel
+faiss-cpu
+openai
+langchain-groq
+streamlit
+duckduckgo-search

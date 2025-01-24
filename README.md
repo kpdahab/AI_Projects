@@ -16,22 +16,20 @@ Here’s an overview of the key sections and the type of projects you can explor
 ### Chatbots
 
 Delve into intelligent conversational agents I've built using various technologies.
-- **Groq OpenAI Chatbot**: Utilizes Groq chips for high-performance computation alongside OpenAI's models to deliver real-time interactions.
-- **PDF Integrated Chatbot**: Integrates PDF parsing for dynamic content extraction in chatbot applications.
-- **Multi-Agent Chatbot**: Features coordination between multiple AI agents for complex query handling.
-
-### Data Retrieval and Processing
-
-Explore tools and techniques aimed at effective information extraction and summarization.
-- **RAG Document Summarization**: Employs retrieval-augmented generation for concise document summarization.
-- **PDF Query RAG**: Combines RAG with PDF processing for efficient querying within documents.
-- **Text and YouTube Video Summarization**: Solutions for generating concise content summaries across multiple media types.
+- **Groq API Chatbot**: Utilizes **Langchain**, **Groq API**, **Hugging Face**, and **ChromaDB** to deliver context-aware, efficient, and personalized interactions.
+- **OpenAI Chatbot**: Integrates  **Streamlit**, **OpenAI**, and **Langchain** to provide intelligent responses to user queries.
 
 ### Search and Recommendation
 
 Innovative projects utilizing search algorithms and recommendation systems.
 - **Search Engine Agents**: Develops an intelligent agent-based search mechanism.
 - **AI with Bedrock**: Features AI-driven insights and recommendations using AWS Bedrock services.
+
+### Data Retrieval and Processing
+
+Explore tools and techniques aimed at effective information extraction and summarization.
+- **PDF Query RAG**: Combines RAG with PDF processing for efficient querying within documents.
+- **Text and YouTube Video Summarization**: Solutions for generating concise content summaries across multiple media types.
 
 ### Advanced AI Applications
 
