@@ -49,7 +49,7 @@ This project showcases an AI-powered coding assistant using **Gradio** and **Cod
    cd <AI_Projects/Advanced_AI_Apps/CodeLlama_Coding_Assistant>
 
 2.	**Install Dependencies**
-   Ensure Python 3.10 is installed (conda create -p venv python==3.12), then activate venv and run:
+   Ensure Python 3.12 is installed (conda create -p venv python==3.12), then activate venv and run:
    pip install -r requirements.txt
 
 3.	**Set Up Ollama**: Run the following commands in the background:
