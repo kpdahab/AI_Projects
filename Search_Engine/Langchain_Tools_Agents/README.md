@@ -56,26 +56,30 @@ This project showcases an intelligent search and recall application using **Stre
    git clone <https://github.com/kpdahab/AI_Projects.git>
    cd <AI_Projects/Search_Engine/Langchain_Tools_Agents>
 
-2.	Install Dependencies
-   Ensure Python 3.10 is installed (conda create -p venv python==3.10), then run:
+2.	**Install Dependencies**
+   Ensure Python 3.10 is installed (conda create -p venv python==3.10), then activate venv and run:
    pip install -r requirements.txt
 
 
-3.	Set Up API Keys
+3.	**Set Up API Keys**
    Add your API keys for the following services in a .env file:
    GROQ_API_KEY=<your_groq_api_key>
 
 
-4.	Run the Application
+4.	**Run the Application**
    Launch the Streamlit application:
    streamlit run app.py
 
-5.	Interact with the chatbot:
+5.	**Interact with the chatbot**:
    Open the application in your web browser (http://localhost:8501/) and start asking questions.
+   
+---
 
 ### Disclaimer
 
 This project is intended solely for demonstration purposes to showcase the use of Generative AI technologies. It is not meant for production use, and no contributions are accepted. If you have any questions or would like to discuss this project further, please reach out using the contact details below.
+
+---
 
 ### License
 

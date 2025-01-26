@@ -1,0 +1,39 @@
+body {
+    background-color: #121212;
+    color: #DAA520;  /* Golden color for text */
+    font-family: 'Arial', sans-serif;
+}
+
+.gradio-container {
+    background-color: #121212;
+    color: #DAA520;  /* Golden color for text */
+}
+
+.gr-box {
+    background-color: #333333 !important;  /* Grey color for background */
+    color: #DAA520 !important;  /* Golden color for text */
+    border: 2px solid #DAA520 !important;  /* Golden color for border */
+    border-radius: 5px;
+    padding: 10px;
+}
+
+input[type="text"], textarea {
+    background-color: #333333 !important;  /* Grey color for background */
+    color: #DAA520 !important;  /* Golden color for text */
+    border: 2px solid #DAA520 !important;  /* Golden color for border */
+    border-radius: 5px;
+    padding: 10px;
+}
+
+button {
+    background-color: #333333;  /* Grey color for background */
+    color: #DAA520;  /* Golden color for text */
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #444444;
+}
