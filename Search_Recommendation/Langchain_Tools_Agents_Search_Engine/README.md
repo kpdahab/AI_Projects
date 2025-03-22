@@ -54,7 +54,7 @@ This project showcases an intelligent search and recall application using **Stre
 1. **Clone the Repository**
    ```bash
    git clone <https://github.com/kpdahab/AI_Projects.git>
-   cd <AI_Projects/Search_Engine/Langchain_Tools_Agents>
+   cd <AI_Projects/Search_Recommendation/Langchain_Tools_Agents_Search_Engine> 
 
 2.	**Install Dependencies**
    Ensure Python 3.10 is installed (conda create -p venv python==3.10), then activate venv and run:
