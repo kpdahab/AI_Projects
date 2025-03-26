@@ -1,0 +1,2 @@
+boto3 # library to connect with services in AWS Bedrock
+awscli
